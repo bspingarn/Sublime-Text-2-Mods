@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+
+<!--[if IE 6]>
+	<style type="text/css">
+		/* css here */
+	</style>
+<![endif]-->
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>conditional comment</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

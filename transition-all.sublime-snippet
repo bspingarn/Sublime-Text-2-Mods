@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+-webkit-transition: all ${1:0.3s} ${2:ease};
+-moz-transition: all ${1:0.3s} ${2:ease};
+-o-transition: all ${1:0.3s} ${2:ease};
+transition: all ${1:0.3s} ${2:ease};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>transition</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
